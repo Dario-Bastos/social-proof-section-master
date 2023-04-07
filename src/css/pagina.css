@@ -1,0 +1,231 @@
+body{
+    width: 1080px;
+    margin: 60px auto;
+    font-family: montserrat;
+}
+
+.container .secao1 {
+    display: flex;
+}
+
+.container .secao1 .parte1{
+    width: 500px;
+    color: #511F50;
+    margin: 0 200px 0 0;
+}
+
+.container .secao1 .parte1 h1{
+    width: 475px;
+    font-size: 50px;
+    margin: 0 0 30px 0;
+    font-weight: 800;
+    line-height: 50px;
+}
+
+.container .secao1 .parte1 p{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 500;
+}
+
+.container .secao1 .parte2{
+   margin: 20px 0 0 0;
+    color: #511F50;
+    font-weight: 700;
+}
+
+.container .secao1 .parte2 .avaliacao1 {
+    display: flex;
+    width: 390px;
+    background-color: #f7f2f8;
+    margin: 0px 0px 25px 0px;
+    padding: 20px 0px 20px 0px;
+    border-radius: 10px;
+}
+
+.container .secao1 .parte2 .avaliacao1 p{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.container .secao1 .parte2 .avaliacao1 .grupo{
+    margin: 0 10px 0 20px;
+}
+
+.container .secao1 .parte2 .avaliacao1 img{
+    margin: 0px 5px 0 0;
+    height: 15px;
+}
+
+.container .secao1 .parte2 .avaliacao2 {
+    display: flex;
+    width: 400px;
+    background-color: #f7f2f8;
+    margin: 0px 0px 25px 35px;
+    padding: 20px 0px 20px 0px;
+    border-radius: 10px;
+}
+
+.container .secao1 .parte2 .avaliacao2 p{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.container .secao1 .parte2 .avaliacao2 .grupo{
+    margin: 0 10px 0 20px;
+}
+
+.container .secao1 .parte2 .avaliacao2 img{
+    margin: 0px 5px 0 0;
+    height: 15px;
+}
+
+.container .secao1 .parte2 .avaliacao3 {
+    display: flex;
+    width: 400px;
+    background-color: #f7f2f8;
+    margin: 0px 0px 25px 80px;
+    padding: 20px 0px 20px 0px;
+    border-radius: 10px;
+}
+.container .secao1 .parte2 .avaliacao3 p{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.container .secao1 .parte2 .avaliacao3 .grupo{
+    margin: 0 10px 0 20px;
+}
+
+.container .secao1 .parte2 .avaliacao3 img{
+    margin: 0px 5px 0 0;
+    height: 15px;
+}
+
+
+
+.container .secao2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.container .secao2 .pessoa1{
+    background-color: #511F50;
+    width: 340px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.container .secao2 .pessoa1 .p3{
+    color: #f7f7f7;
+    font-size: 15px;
+}
+
+.container .secao2 .pessoa1 span {
+    display: flex;
+    align-items: center;
+    margin: 0 0 20px 0;
+}
+
+.container .secao2 .pessoa1 span div {
+    padding: 0 0px 0 25px;
+    line-height: 20px;
+}
+
+.container .secao2 .pessoa1 span div .p1{
+    color: #f7f7f7;
+    font-weight: 600;
+}
+
+.container .secao2 .pessoa1 span div .p2{
+    color: #E279B2;
+    font-weight: 500;
+}
+
+.container .secao2 .pessoa1 img{
+    border-radius: 100px;
+    width: 40px;
+}
+
+
+.container .secao2 .pessoa2{
+    background-color: #511F50;
+    width: 340px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container .secao2 .pessoa2 .p3{
+    color: #f7f7f7;
+    font-size: 15px;
+}
+
+.container .secao2 .pessoa2 span {
+    display: flex;
+    align-items: center;
+    margin: 0 0 20px 0;
+}
+
+.container .secao2 .pessoa2 span div {
+    padding: 0 0px 0 25px;
+    line-height: 20px;
+}
+
+.container .secao2 .pessoa2 span div .p1{
+    color: #f7f7f7;
+    font-weight: 600;
+}
+
+.container .secao2 .pessoa2 span div .p2{
+    color: #E279B2;
+    font-weight: 500;
+}
+
+.container .secao2 .pessoa2 img{
+    border-radius: 100px;
+    width: 40px;
+}
+
+
+.container .secao2 .pessoa3{
+    background-color: #511F50;
+    width: 340px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.container .secao2 .pessoa3 .p3{
+    color: #f7f7f7;
+    font-size: 15px;
+}
+
+.container .secao2 .pessoa3 span {
+    display: flex;
+    align-items: center;
+    margin: 0 0 20px 0;
+}
+
+.container .secao2 .pessoa3 span div {
+    padding: 0 0px 0 25px;
+    line-height: 20px;
+}
+
+.container .secao2 .pessoa3 span div .p1{
+    color: #f7f7f7;
+    font-weight: 600;
+}
+
+.container .secao2 .pessoa3 span div .p2{
+    color: #E279B2;
+    font-weight: 500;
+}
+
+.container .secao2 .pessoa3 img{
+    border-radius: 100px;
+    width: 40px;
+}
